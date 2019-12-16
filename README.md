@@ -3,35 +3,28 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <h1 align="center">Blog de Iván Basurto Delgado </h1>
+    <p align="center">A continuación en este Blog encontrarás sobre el perfil profesional de Iván Basurto Delgado y acerca de un tema de la asignatura Introducción a la Ingeniería de Software</p>
+    <p align="center"><strong><a href="https://servicioenlinea.ug.edu.ec/SIUG/Default.aspx">Sistema de la Universidad Guayaquil</a></strong></p>
     <br><br><br>
 </p>
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+<p align="center"> <img src="https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/captura2.png"> </p>
 
-## Installation
+## Perfil Profesional
 
-Add this line to your Jekyll site's Gemfile:
 
-```ruby
-gem "just-the-docs"
-```
+_Graduado en la Unidad Educativa Fiscal Guayaquil_
 
-And add this line to your Jekyll site's `_config.yml`:
 
-```yaml
-theme: just-the-docs
-```
 
-And then execute:
+__Cursando el Primer Semestre de la Carrera Software en la Universidad de Guayaquil__
 
-    $ bundle
 
-Or install it yourself as:
+___Correo de la Clase___:
 
-    $ gem install just-the-docs
+    introsoftma-1-8cicloii2019-2020@ug.edu.ec
+
 
 ## Usage
 
